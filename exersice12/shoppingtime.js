@@ -25,6 +25,7 @@ function shoppingTime(memberId,money) {
             }
         }
 
+        // input ke dalam object
         var displayBill = {
             memberId: memberId,
             money: money,
